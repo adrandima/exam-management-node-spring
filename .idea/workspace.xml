@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7257f0b-6e99-4fab-b9fd-3155f540edf3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/api/route/assignmentRoute.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/studentinstructorbackend/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/api/route/studentRoutes.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/api/route/assignmentRoute.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/api/model/assign_instructor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/AddAssignment.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/StudentDashboard/OnlineExam.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_instructor_information_system/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/api/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JSX" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>business</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jaliya &lt;jaliyalaksirifernando@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/backend/api/model/instructor.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/Main/main.css" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/LecturerDashboardContent.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AddLecturer.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AddStudent.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AddLecturer.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminDashboardContent.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminDashboardHandler.jsx" />
+        <option value="$PROJECT_DIR$/backend/api/model/student.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminDashboardHandler.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/DashboardStyles.css" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminNavBar.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminDashboardController.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/ViewStudents.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/studentDetails.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/EditStudent.jsx" />
+        <option value="$PROJECT_DIR$/backend/api/route/lecturerRoutes.js" />
+        <option value="$PROJECT_DIR$/backend/api/model/login.js" />
+        <option value="$PROJECT_DIR$/backend/api/route/loginRoutes.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/LecturerReferenceHandlePage.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/Page.css" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/AddReference.jsx" />
+        <option value="$PROJECT_DIR$/backend/api/route/AssignmentAndExamRoute/assignmentRoute.js" />
+        <option value="$PROJECT_DIR$/backend/api/DB.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/AddAssignment.jsx" />
+        <option value="$PROJECT_DIR$/backend/api/route/assignmentRoute.js" />
+        <option value="$PROJECT_DIR$/backend/api/model/assignment.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/package.json" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/QuestionList.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/style.css" />
+        <option value="$PROJECT_DIR$/backend/api/route/questionRoute.js" />
+        <option value="$PROJECT_DIR$/backend/api/model/question.js" />
+        <option value="$PROJECT_DIR$/backend/api/model/assign_instructor.js" />
+        <option value="$PROJECT_DIR$/backend/api/route/instructor_subjectRoute.js" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/AddQuestion.jsx" />
+        <option value="$PROJECT_DIR$/backend/api/package.json" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/pom.xml" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Repository/ExamRepository.java" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Model/Question.java" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Repository/QuestionRepository.java" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Config.java" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/backend/api/server.js" />
+        <option value="$PROJECT_DIR$/backend/api/model/exam.js" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Model/Exam.java" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/OnlineExam.jsx" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/main.js" />
+        <option value="$PROJECT_DIR$/backend/api/route/examRoute.js" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Controller/ExamController.java" />
+        <option value="$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Controller/QuestionController.java" />
+        <option value="$PROJECT_DIR$/student_instructor_information_system/src/components/StudentDashboard/OnlineExam.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="route" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="student_instructor_information_system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="student_instructor_information_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="student_instructor_information_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="student_instructor_information_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="LecturerDashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Student-and-Instructor-Information-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Student-and-Instructor-Information-System" type="462c0819:PsiDirectoryNode" />
+              <item name="student_instructor_information_system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentDashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Jaliya/Student-and-Instructor-Information-System" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Student-and-Instructor-Information-System\studentinstructorbackend\src\main\java\com\example\studentinstructorbackend" />
+      <recent name="$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard" />
+      <recent name="C:\Users\jaliy\Desktop\Student-and-Instructor-Information-System\student_instructor_information_system\src\components\AdminDashboard" />
+      <recent name="C:\Users\jaliy\Desktop\Student-and-Instructor-Information-System\student_instructor_information_system\src\components\LecturerDashboard" />
+      <recent name="C:\Users\jaliy\Desktop\Student-and-Instructor-Information-System\student_instructor_information_system\src\components\HomePage\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Student-and-Instructor-Information-System\backend\api\route" />
+      <recent name="D:\Student-and-Instructor-Information-System\studentinstructorbackend\src\main\java\com\example\studentinstructorbackend" />
+      <recent name="$PROJECT_DIR$/backend/api/route" />
+      <recent name="C:\Users\jaliy\Desktop\Student-and-Instructor-Information-System\student_instructor_information_system\src\components\Main" />
+      <recent name="C:\Users\jaliy\Desktop\Student-and-Instructor-Information-System\backend\api\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StudentinstructorbackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="studentinstructorbackend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.studentinstructorbackend.StudentinstructorbackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7257f0b-6e99-4fab-b9fd-3155f540edf3" name="Default Changelist" comment="" />
+      <created>1555224028428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555224028428</updated>
+      <workItem from="1555224029843" duration="1842000" />
+      <workItem from="1555237534152" duration="784000" />
+      <workItem from="1555307991659" duration="7369000" />
+      <workItem from="1555353083361" duration="1229000" />
+      <workItem from="1555392493743" duration="12518000" />
+      <workItem from="1555481921211" duration="20065000" />
+      <workItem from="1555703759879" duration="833000" />
+      <workItem from="1555706492620" duration="599000" />
+      <workItem from="1555960869125" duration="2312000" />
+      <workItem from="1556013428236" duration="599000" />
+      <workItem from="1556082670521" duration="1199000" />
+      <workItem from="1556121308375" duration="8717000" />
+      <workItem from="1556181287350" duration="2323000" />
+      <workItem from="1556334922057" duration="19000" />
+      <workItem from="1556605213219" duration="9823000" />
+      <workItem from="1556659155623" duration="955000" />
+      <workItem from="1556711773735" duration="1382000" />
+      <workItem from="1556812683422" duration="629000" />
+      <workItem from="1556860505197" duration="3662000" />
+      <workItem from="1556879016669" duration="582000" />
+      <workItem from="1556960785387" duration="678000" />
+      <workItem from="1556992740087" duration="1688000" />
+      <workItem from="1557036875062" duration="7784000" />
+      <workItem from="1557123523785" duration="671000" />
+      <workItem from="1557645709085" duration="14512000" />
+      <workItem from="1557767881850" duration="10061000" />
+      <workItem from="1557808379434" duration="7096000" />
+      <workItem from="1557936801478" duration="1656000" />
+      <workItem from="1557993568081" duration="599000" />
+      <workItem from="1558039151823" duration="638000" />
+      <workItem from="1558069585071" duration="1433000" />
+      <workItem from="1558093508824" duration="619000" />
+      <workItem from="1558112414842" duration="144000" />
+      <workItem from="1558583221517" duration="1989000" />
+      <workItem from="1559055644952" duration="714000" />
+      <workItem from="1560793789373" duration="653000" />
+      <workItem from="1561081810592" duration="6010000" />
+      <workItem from="1561130496541" duration="42026000" />
+      <workItem from="1561206332726" duration="4279000" />
+      <workItem from="1561196391723" duration="2847000" />
+      <workItem from="1561231167955" duration="79282000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Student Dashboard Component">
+      <created>1555961779655</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555961779655</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Styles to Student Dashboard">
+      <created>1556121696268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556121696268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update">
+      <created>1556121789867</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556121789867</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update student dashboard">
+      <created>1556127085248</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556127085248</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update interfaces">
+      <created>1556133543538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556133543538</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Lecturer Component">
+      <created>1556136621265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556136621265</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update interfaces">
+      <created>1556136654725</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556136654725</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Admin Dashboard Component">
+      <created>1556136858908</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556136858908</updated>
+    </task>
+    <task id="LOCAL-00009" summary="install the node.js dependencies.">
+      <created>1556605832169</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556605832169</updated>
+    </task>
+    <task id="LOCAL-00010" summary="connect database and create student inside the db">
+      <created>1556632469043</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556632469043</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update App.js">
+      <created>1556632966310</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556632966310</updated>
+    </task>
+    <task id="LOCAL-00012" summary="install dependencies.">
+      <created>1556633008551</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556633008551</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update components">
+      <created>1556633030274</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556633030274</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add instructor model">
+      <created>1557677780601</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557677780602</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add lecturer model">
+      <created>1557677812201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557677812201</updated>
+    </task>
+    <task id="LOCAL-00016" summary="change directory">
+      <created>1557677862744</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557677862744</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update main components">
+      <created>1557678030658</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557678030658</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add admin components">
+      <created>1557767942546</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557767942546</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add admin dashboard controller and handler component">
+      <created>1557768005646</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1557768005646</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add View Lecturer component">
+      <created>1557772204319</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1557772204319</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add View Students component">
+      <created>1557772231765</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1557772231765</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update form styles">
+      <created>1557772247192</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1557772247192</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add studentDetails component">
+      <created>1557777389293</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1557777389293</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update ViewStudents component">
+      <created>1557777422558</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1557777422558</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add new styles">
+      <created>1557777442000</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1557777442000</updated>
+    </task>
+    <task id="LOCAL-00026" summary="update components">
+      <created>1557943634663</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1557943634663</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update admin nav bar">
+      <created>1557943678250</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1557943678250</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add edit student component">
+      <created>1557943703694</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1557943703694</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add styles to edit student form">
+      <created>1557943729334</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1557943729334</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update dashboard controller component">
+      <created>1557943927549</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1557943927549</updated>
+    </task>
+    <task id="LOCAL-00031" summary="update admin dashboard handler component">
+      <created>1557943950875</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1557943950875</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add lecturerRoutes">
+      <created>1558584216807</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1558584216807</updated>
+    </task>
+    <task id="LOCAL-00033" summary="update lecturerRoute">
+      <created>1558584350128</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1558584350128</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add exam">
+      <created>1561287841015</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1561287841016</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update exam">
+      <created>1561302284009</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1561302284009</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update exam">
+      <created>1561332830406</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1561332830406</updated>
+    </task>
+    <task id="LOCAL-00037" summary="compleated exam crud">
+      <created>1561333549641</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1561333549641</updated>
+    </task>
+    <task id="LOCAL-00038" summary="question student view">
+      <created>1561352681945</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1561352681945</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="262820000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16565809" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32569557" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32569557" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49621785" visible="true" weight="0.24222586" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50378215" side_tool="true" weight="0.24713585" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32569557" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Mongo Explorer" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/student_instructor_information_system" />
+    </ignored-roots>
+    <MESSAGE value="install dependencies." />
+    <MESSAGE value="Add instructor model" />
+    <MESSAGE value="add lecturer model" />
+    <MESSAGE value="change directory" />
+    <MESSAGE value="update main components" />
+    <MESSAGE value="Add admin components" />
+    <MESSAGE value="add admin dashboard controller and handler component" />
+    <MESSAGE value="add View Lecturer component" />
+    <MESSAGE value="add View Students component" />
+    <MESSAGE value="update form styles" />
+    <MESSAGE value="add studentDetails component" />
+    <MESSAGE value="update ViewStudents component" />
+    <MESSAGE value="Add new styles" />
+    <MESSAGE value="update components" />
+    <MESSAGE value="update admin nav bar" />
+    <MESSAGE value="add edit student component" />
+    <MESSAGE value="Add styles to edit student form" />
+    <MESSAGE value="update dashboard controller component" />
+    <MESSAGE value="update admin dashboard handler component" />
+    <MESSAGE value="add lecturerRoutes" />
+    <MESSAGE value="update lecturerRoute" />
+    <MESSAGE value="Add exam" />
+    <MESSAGE value="update exam" />
+    <MESSAGE value="compleated exam crud" />
+    <MESSAGE value="question student view" />
+    <option name="LAST_COMMIT_MESSAGE" value="question student view" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/DB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/instructor.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/lecturer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/uploads/2019-06-21T20:19:15.289Z20190618_142322.jpg" />
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/HomePage/FacultyDiv.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminDashboardHandler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/ViewLecturers.jsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/AdminDashboard/AdminDashboardContent.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/DashboardStyles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/loginRoutes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/node_modules/bootstrap/dist/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/QuestionList.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="28" column="37" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/lecturerRoutes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="58" column="12" lean-forward="true" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/instructor_subjectRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/assignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Config.java.URL">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Repository/ExamRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Repository/QuestionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/exam.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/StudentDashboard/StudentDashboardContent.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/question.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Model/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="88" column="31" lean-forward="true" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1022#1023#0" expanded="true" />
+            <element signature="e#1049#1050#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1235#1236#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1385#1386#0" expanded="true" />
+            <element signature="e#1423#1424#0" expanded="true" />
+            <element signature="e#1457#1458#0" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1533#1534#0" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1635#1636#0" expanded="true" />
+            <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1719#1720#0" expanded="true" />
+            <element signature="e#1753#1754#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#1907#1908#0" expanded="true" />
+            <element signature="e#1943#1944#0" expanded="true" />
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2051#2052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Model/Exam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#940#941#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1070#1071#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1134#1135#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1290#1291#0" expanded="true" />
+            <element signature="e#1344#1345#0" expanded="true" />
+            <element signature="e#1390#1391#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="e#1556#1557#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1644#1645#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/questionRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/examRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="40" column="55" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/LecturerDashboardContent.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/OnlineExam.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="270" column="198" selection-start-line="270" selection-start-column="36" selection-end-line="270" selection-end-column="198" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="31" selection-start-line="31" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/AddQuestion.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="244" selection-start-line="244" selection-end-line="255" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/LecturerDashboardHandler.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Controller/ExamController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studentinstructorbackend/src/main/java/com/example/studentinstructorbackend/Controller/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/studentRoutes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/route/assignmentRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/model/assign_instructor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/LecturerDashboard/AddAssignment.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/StudentDashboard/OnlineExam.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/api/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_instructor_information_system/src/components/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>studentinstructorbackend</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

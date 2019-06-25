@@ -1,0 +1,11 @@
+.ScrollStyle
+{
+    max-height: 510px;
+    overflow-y: scroll;
+}
+
+.trStyle
+{
+    max-height: 150px;
+    overflow-y: scroll;
+}
